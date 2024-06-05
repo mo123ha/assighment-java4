@@ -1,0 +1,53 @@
+
+body {
+  background: #24353f;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#home{ 
+  padding: 50px;
+margin-top: 50px;
+  margin-inline: auto;
+  box-shadow: 0 0 0 10 wheat;
+  background: #24353f;
+  width: 50%;
+  box-shadow: -5px 2px 54px -9px rgb(0, 0, 0);
+}
+.signin h1{
+  color: #17a2b8
+}
+.signin ::placeholder{
+  color:grey;
+}
+.signin input{
+  box-shadow: none!important;
+  border: 1px solid white  !important;
+  color: white;
+}
+
+a{
+  text-decoration: none ;
+  color: white;
+
+}
+.nav{
+  background: #24353f;
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.containe{
+  width: 65%;
+  margin: auto;
+}
+.welcome{
+  margin-left: 10%;
+  margin-top: 15%;
+ color: white;
+  background: #24353f;
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+h4{
+  cursor:pointer;
+}
+.fonnt{
+  font-size: 30px;
+}
